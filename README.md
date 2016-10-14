@@ -1,7 +1,7 @@
 # FuckingGreatAdvice
 OSX ScreenSaver with quotes from fucking-great-advice.ru
 
-![Screenshot](Release/Screenshot.png)
+![Screenshot](Release/screenshot.png)
 
 Dead simple Screensaver which periodically shows a quote from [http://fucking-great-advice.ru](http://fucking-great-advice.ru), that's it.
 
