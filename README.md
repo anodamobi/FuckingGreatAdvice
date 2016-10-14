@@ -7,7 +7,7 @@ Dead simple Screensaver which periodically shows a quote from [http://fucking-gr
 
 Not officially affiliated with [http://fucking-great-advice.ru](http://fucking-great-advice.ru)
 
-Grab the current [Release here](Release/DeveloperExcuses.saver.zip)!
+Grab the current [Release here](Release/FuckingGreatAdvice.saver.zip)!
 
 Inspired from [https://github.com/kimar/DeveloperExcuses](kimar's DeveloperExcuses)
 
